@@ -1,0 +1,638 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* American_MoneyAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 495}}";
+			sepNavSelRange = "{508, 0}";
+			sepNavVisRange = "{166, 602}";
+		};
+	};
+	1D3623250D0F684500981E51 /* American_MoneyAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1455}}";
+			sepNavSelRange = "{369, 0}";
+			sepNavVisRange = "{167, 706}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* American Money */ = {
+		activeExec = 0;
+		executables = (
+			561E3674130C49FF00DF2226 /* American Money */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* American_MoneyViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 407}}";
+			sepNavSelRange = "{366, 88}";
+			sepNavVisRange = "{0, 461}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* American_MoneyViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1228, 1710}}";
+			sepNavSelRange = "{1228, 0}";
+			sepNavVisRange = "{758, 1077}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Distribution;
+		activeExecutable = 561E3674130C49FF00DF2226 /* American Money */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* American Money */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* American Money */,
+		);
+		breakpoints = (
+			564977831312E8C8007562D4 /* CurrencyViewController.m:27 */,
+		);
+		codeSenseManager = 561E368F130C4A1F00DF2226 /* Code sense */;
+		executables = (
+			561E3674130C49FF00DF2226 /* American Money */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					732,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					692,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325623652;
+			PBXWorkspaceStateSaveDate = 325623652;
+		};
+		perUserProjectItems = {
+			561157FD1310B59700A1B4FC /* PBXTextBookmark */ = 561157FD1310B59700A1B4FC /* PBXTextBookmark */;
+			561157FE1310B59700A1B4FC /* PBXTextBookmark */ = 561157FE1310B59700A1B4FC /* PBXTextBookmark */;
+			561157FF1310B59700A1B4FC /* PBXTextBookmark */ = 561157FF1310B59700A1B4FC /* PBXTextBookmark */;
+			561158741311049100A1B4FC /* PBXTextBookmark */ = 561158741311049100A1B4FC /* PBXTextBookmark */;
+			561226E31311208C0093B8F1 /* PBXTextBookmark */ = 561226E31311208C0093B8F1 /* PBXTextBookmark */;
+			561226E41311208C0093B8F1 /* PBXTextBookmark */ = 561226E41311208C0093B8F1 /* PBXTextBookmark */;
+			561E36FC130C689A00DF2226 /* PBXTextBookmark */ = 561E36FC130C689A00DF2226 /* PBXTextBookmark */;
+			5649769113112B62007562D4 /* PBXTextBookmark */ = 5649769113112B62007562D4 /* PBXTextBookmark */;
+			5649772713113200007562D4 /* PBXBookmark */ = 5649772713113200007562D4 /* PBXBookmark */;
+			56497731131132BF007562D4 /* PBXTextBookmark */ = 56497731131132BF007562D4 /* PBXTextBookmark */;
+			5649773813113B93007562D4 /* PBXTextBookmark */ = 5649773813113B93007562D4 /* PBXTextBookmark */;
+			564977691312E793007562D4 /* PBXBookmark */ = 564977691312E793007562D4 /* PBXBookmark */;
+			5649776A1312E793007562D4 /* PBXBookmark */ = 5649776A1312E793007562D4 /* PBXBookmark */;
+			5649776B1312E793007562D4 /* PBXBookmark */ = 5649776B1312E793007562D4 /* PBXBookmark */;
+			565D52411359F5FF001622A5 /* PBXTextBookmark */ = 565D52411359F5FF001622A5 /* PBXTextBookmark */;
+			5694472A130F2F0200F2100D /* PBXTextBookmark */ = 5694472A130F2F0200F2100D /* PBXTextBookmark */;
+			56944FE413100F6300F2100D /* PBXTextBookmark */ = 56944FE413100F6300F2100D /* PBXTextBookmark */;
+			56944FE513100F6300F2100D /* PBXBookmark */ = 56944FE513100F6300F2100D /* PBXBookmark */;
+			56944FE613100F6300F2100D /* PBXTextBookmark */ = 56944FE613100F6300F2100D /* PBXTextBookmark */;
+			56944FE813100F6300F2100D /* PBXTextBookmark */ = 56944FE813100F6300F2100D /* PBXTextBookmark */;
+			56DD73FF1368A001001FAAC5 /* PBXTextBookmark */ = 56DD73FF1368A001001FAAC5 /* PBXTextBookmark */;
+			56DD74001368A001001FAAC5 /* PBXTextBookmark */ = 56DD74001368A001001FAAC5 /* PBXTextBookmark */;
+			56DD74011368A001001FAAC5 /* PBXTextBookmark */ = 56DD74011368A001001FAAC5 /* PBXTextBookmark */;
+			56DD740D1368A0DA001FAAC5 /* PBXTextBookmark */ = 56DD740D1368A0DA001FAAC5 /* PBXTextBookmark */;
+			56DD74281368A5D9001FAAC5 /* PBXTextBookmark */ = 56DD74281368A5D9001FAAC5 /* PBXTextBookmark */;
+			56DD74291368A5D9001FAAC5 /* PlistBookmark */ = 56DD74291368A5D9001FAAC5 /* PlistBookmark */;
+			56DD742A1368A5D9001FAAC5 /* PBXTextBookmark */ = 56DD742A1368A5D9001FAAC5 /* PBXTextBookmark */;
+			56DD742B1368A5D9001FAAC5 /* PBXTextBookmark */ = 56DD742B1368A5D9001FAAC5 /* PBXTextBookmark */;
+			56F1C2D1131C39C100E06729 /* PBXBookmark */ = 56F1C2D1131C39C100E06729 /* PBXBookmark */;
+			56F1C30A131C495B00E06729 /* PBXTextBookmark */ = 56F1C30A131C495B00E06729 /* PBXTextBookmark */;
+			56F1C30B131C495B00E06729 /* PBXTextBookmark */ = 56F1C30B131C495B00E06729 /* PBXTextBookmark */;
+			56F1C30C131C495B00E06729 /* PBXTextBookmark */ = 56F1C30C131C495B00E06729 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 561E368E130C4A1F00DF2226 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 395}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 375}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* American_Money_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 395}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 197}";
+		};
+	};
+	561157FD1310B59700A1B4FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 561E36E9130C67EE00DF2226 /* CountryMgr.h */;
+		name = "CountryMgr.h: 20";
+		rLen = 0;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 0;
+	};
+	561157FE1310B59700A1B4FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5675FD5F130F143100F407DC /* Currency.m */;
+		name = "Currency.m: 38";
+		rLen = 0;
+		rLoc = 529;
+		rType = 0;
+		vrLen = 253;
+		vrLoc = 315;
+	};
+	561157FF1310B59700A1B4FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5675FD5E130F143100F407DC /* Currency.h */;
+		name = "Currency.h: 7";
+		rLen = 1;
+		rLoc = 146;
+		rType = 0;
+		vrLen = 545;
+		vrLoc = 0;
+	};
+	561158741311049100A1B4FC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 561E36C1130C560C00DF2226 /* AboutViewController.h */;
+		name = "AboutViewController.h: 16";
+		rLen = 28;
+		rLoc = 243;
+		rType = 0;
+		vrLen = 305;
+		vrLoc = 0;
+	};
+	561226E31311208C0093B8F1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* American_MoneyAppDelegate.h */;
+		name = "American_MoneyAppDelegate.h: 24";
+		rLen = 0;
+		rLoc = 508;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 166;
+	};
+	561226E41311208C0093B8F1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* American_MoneyAppDelegate.m */;
+		name = "American_MoneyAppDelegate.m: 17";
+		rLen = 0;
+		rLoc = 369;
+		rType = 0;
+		vrLen = 706;
+		vrLoc = 167;
+	};
+	561E3674130C49FF00DF2226 /* American Money */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "American Money";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	561E368E130C4A1F00DF2226 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	561E368F130C4A1F00DF2226 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	561E36BB130C52D600DF2226 /* Default.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	561E36C1130C560C00DF2226 /* AboutViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 388}}";
+			sepNavSelRange = "{243, 28}";
+			sepNavVisRange = "{0, 305}";
+		};
+	};
+	561E36C2130C560C00DF2226 /* AboutViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1308, 1020}}";
+			sepNavSelRange = "{211, 0}";
+			sepNavVisRange = "{98, 796}";
+		};
+	};
+	561E36D0130C61CD00DF2226 /* ContinentsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 352}}";
+			sepNavSelRange = "{282, 27}";
+			sepNavVisRange = "{0, 317}";
+		};
+	};
+	561E36D1130C61CD00DF2226 /* ContinentsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 990}}";
+			sepNavSelRange = "{363, 0}";
+			sepNavVisRange = "{56, 755}";
+		};
+	};
+	561E36DF130C659400DF2226 /* ContriesViewClicked.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {932, 420}}";
+			sepNavSelRange = "{165, 0}";
+			sepNavVisRange = "{0, 660}";
+		};
+	};
+	561E36E0130C659400DF2226 /* ContriesViewClicked.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1180, 2955}}";
+			sepNavSelRange = "{5180, 0}";
+			sepNavVisRange = "{4760, 617}";
+		};
+	};
+	561E36E7130C67EE00DF2226 /* Country.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 435}}";
+			sepNavSelRange = "{520, 0}";
+			sepNavVisRange = "{165, 415}";
+			sepNavWindowFrame = "{{498, 190}, {750, 558}}";
+		};
+	};
+	561E36E8130C67EE00DF2226 /* Country.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {956, 1275}}";
+			sepNavSelRange = "{439, 23}";
+			sepNavVisRange = "{1237, 351}";
+		};
+	};
+	561E36E9130C67EE00DF2226 /* CountryMgr.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 388}}";
+			sepNavSelRange = "{366, 0}";
+			sepNavVisRange = "{0, 373}";
+		};
+	};
+	561E36EA130C67EE00DF2226 /* CountryMgr.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 870}}";
+			sepNavSelRange = "{503, 0}";
+			sepNavVisRange = "{360, 422}";
+		};
+	};
+	561E36FC130C689A00DF2226 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* American_MoneyViewController.h */;
+		name = "American_MoneyViewController.h: 20";
+		rLen = 88;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 461;
+		vrLoc = 0;
+	};
+	5649769113112B62007562D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 561E36C2130C560C00DF2226 /* AboutViewController.m */;
+		name = "AboutViewController.m: 12";
+		rLen = 0;
+		rLoc = 211;
+		rType = 0;
+		vrLen = 796;
+		vrLoc = 98;
+	};
+	564976C913112DC1007562D4 /* FacebookAgent.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 4335}}";
+			sepNavSelRange = "{1111, 0}";
+			sepNavVisRange = "{799, 727}";
+		};
+	};
+	564976CA13112DC1007562D4 /* FacebookAgent.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1092, 7785}}";
+			sepNavSelRange = "{4896, 136}";
+			sepNavVisRange = "{4623, 963}";
+		};
+	};
+	564976D813112DC1007562D4 /* FBDialog.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 9135}}";
+			sepNavSelRange = "{11394, 0}";
+			sepNavVisRange = "{10880, 1168}";
+		};
+	};
+	564976DD13112DC1007562D4 /* FBRequest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {916, 5415}}";
+			sepNavSelRange = "{6381, 0}";
+			sepNavVisRange = "{6107, 516}";
+		};
+	};
+	5649771F1311314D007562D4 /* fbBtn.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	5649772713113200007562D4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5649771F1311314D007562D4 /* fbBtn.png */;
+	};
+	56497731131132BF007562D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 564976C913112DC1007562D4 /* FacebookAgent.h */;
+		name = "FacebookAgent.h: 47";
+		rLen = 0;
+		rLoc = 1111;
+		rType = 0;
+		vrLen = 727;
+		vrLoc = 799;
+	};
+	5649773813113B93007562D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 564976CA13112DC1007562D4 /* FacebookAgent.m */;
+		name = "FacebookAgent.m: 197";
+		rLen = 136;
+		rLoc = 4896;
+		rType = 0;
+		vrLen = 963;
+		vrLoc = 4623;
+	};
+	564977691312E793007562D4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 569449C91310098400F2100D /* Ea13ff.jpg */;
+	};
+	5649776A1312E793007562D4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 569449CA1310098400F2100D /* Ea13fr.jpg */;
+	};
+	5649776B1312E793007562D4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 569449CB1310098400F2100D /* Ea31hf.jpg */;
+	};
+	564977831312E8C8007562D4 /* CurrencyViewController.m:27 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5694471C130F2C4200F2100D /* CurrencyViewController.m */;
+		functionName = "-sendToFacebook";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 27;
+		location = CashAmerica;
+		modificationTime = 324660455.413914;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	565D52411359F5FF001622A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 564976D813112DC1007562D4 /* FBDialog.m */;
+		name = "FBDialog.m: 322";
+		rLen = 0;
+		rLoc = 11394;
+		rType = 0;
+		vrLen = 1168;
+		vrLoc = 10880;
+	};
+	5675FD5E130F143100F407DC /* Currency.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 390}}";
+			sepNavSelRange = "{146, 1}";
+			sepNavVisRange = "{0, 545}";
+		};
+	};
+	5675FD5F130F143100F407DC /* Currency.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 675}}";
+			sepNavSelRange = "{529, 0}";
+			sepNavVisRange = "{315, 253}";
+		};
+	};
+	5694471B130F2C4200F2100D /* CurrencyViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 945}}";
+			sepNavSelRange = "{330, 0}";
+			sepNavVisRange = "{164, 443}";
+		};
+	};
+	5694471C130F2C4200F2100D /* CurrencyViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 7185}}";
+			sepNavSelRange = "{7241, 0}";
+			sepNavVisRange = "{6915, 452}";
+		};
+	};
+	5694472A130F2F0200F2100D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* American_MoneyViewController.m */;
+		name = "American_MoneyViewController.m: 42";
+		rLen = 0;
+		rLoc = 1228;
+		rType = 0;
+		vrLen = 1077;
+		vrLoc = 758;
+	};
+	56944FE413100F6300F2100D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 375;
+		vrLoc = 0;
+	};
+	56944FE513100F6300F2100D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 561E36BB130C52D600DF2226 /* Default.png */;
+	};
+	56944FE613100F6300F2100D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* American_Money_Prefix.pch */;
+		name = "American_Money_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 197;
+		vrLoc = 0;
+	};
+	56944FE813100F6300F2100D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 561E36DF130C659400DF2226 /* ContriesViewClicked.h */;
+		name = "ContriesViewClicked.h: 9";
+		rLen = 0;
+		rLoc = 165;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 0;
+	};
+	56DD73FF1368A001001FAAC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5694471C130F2C4200F2100D /* CurrencyViewController.m */;
+		name = "CurrencyViewController.m: 269";
+		rLen = 0;
+		rLoc = 7241;
+		rType = 0;
+		vrLen = 452;
+		vrLoc = 6915;
+	};
+	56DD74001368A001001FAAC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5694471B130F2C4200F2100D /* CurrencyViewController.h */;
+		name = "CurrencyViewController.h: 15";
+		rLen = 0;
+		rLoc = 330;
+		rType = 0;
+		vrLen = 443;
+		vrLoc = 164;
+	};
+	56DD74011368A001001FAAC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 561E36EA130C67EE00DF2226 /* CountryMgr.m */;
+		name = "CountryMgr.m: 40";
+		rLen = 0;
+		rLoc = 503;
+		rType = 0;
+		vrLen = 422;
+		vrLoc = 360;
+	};
+	56DD740D1368A0DA001FAAC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 561E36E0130C659400DF2226 /* ContriesViewClicked.m */;
+		name = "ContriesViewClicked.m: 186";
+		rLen = 0;
+		rLoc = 5180;
+		rType = 0;
+		vrLen = 617;
+		vrLoc = 4760;
+	};
+	56DD74281368A5D9001FAAC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 561E36E7130C67EE00DF2226 /* Country.h */;
+		name = "Country.h: 25";
+		rLen = 0;
+		rLoc = 520;
+		rType = 0;
+		vrLen = 415;
+		vrLoc = 165;
+	};
+	56DD74291368A5D9001FAAC5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* American_Money-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/ranahammad/RanaHammad/Azosh & Co/iphone/Application Backups/CashAmerica/American_Money-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	56DD742A1368A5D9001FAAC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 561E36E8130C67EE00DF2226 /* Country.m */;
+		name = "Country.m: 32";
+		rLen = 23;
+		rLoc = 439;
+		rType = 0;
+		vrLen = 731;
+		vrLoc = 437;
+	};
+	56DD742B1368A5D9001FAAC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 561E36E8130C67EE00DF2226 /* Country.m */;
+		name = "Country.m: 32";
+		rLen = 23;
+		rLoc = 439;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 1237;
+	};
+	56F1C2D1131C39C100E06729 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 56F1C2B5131C371600E06729 /* 57_Logo_CashAfrica.png */;
+	};
+	56F1C30A131C495B00E06729 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 561E36D0130C61CD00DF2226 /* ContinentsViewController.h */;
+		name = "ContinentsViewController.h: 18";
+		rLen = 27;
+		rLoc = 282;
+		rType = 0;
+		vrLen = 317;
+		vrLoc = 0;
+	};
+	56F1C30B131C495B00E06729 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 561E36D1130C61CD00DF2226 /* ContinentsViewController.m */;
+		name = "ContinentsViewController.m: 16";
+		rLen = 0;
+		rLoc = 363;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 56;
+	};
+	56F1C30C131C495B00E06729 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5675F5A4130F0FF300F407DC /* America_Countries.plist */;
+		name = "America_Countries.plist: 13";
+		rLen = 0;
+		rLoc = 329;
+		rType = 0;
+		vrLen = 562;
+		vrLoc = 0;
+	};
+}
